@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Testing</title>
+<script>
+function Hello()
+{
+	
+	var id=encodeURIComponent(document.getElementById("id").value)
+		
+	var mypostrequest=new ajaxRequest();
+	mypostrequest.onreadystatechange=function(){
+	 if (mypostrequest.readyState==4){
+	  if (mypostrequest.status==200 || window.location.href.indexOf("http")==-1){
+	   document.getElementById("result").innerHTML=mypostrequest.responseText
+	  }
+	  else{
+	   alert("An error has occured making the request")
+	  }
+	 }
+	}
+	var id=encodeURIComponent(document.getElementById("id").value)
+	
+
+	var agevalue=encodeURIComponent(document.getElementById("age").value)
+	var parameters="name="+namevalue+"&age="+agevalue
+	mypostrequest.open("POST", "basicform.php", true)
+	mypostrequest.setRequestHeader("Content-type", "application/x-www-form-urlencoded")
+	mypostrequest.send(parameters)
+
+
+	
+} 
+
+</script>
+
+</head>
+
+ <body  bgcolor = "#CCFFCC">
+        <h1>Testing</h1>
+        <form name="insert">
+        	<table id = "initpage">
+        	<tr>
+        	<td>User ID</td><td><input type="text" id = "id" name="id"/></td></tr>
+            <tr><td>First Name</td><td><input type="text" id = "firstName" name="firstName"/></td></tr>
+            <tr><td>Middle Name</td><td><input type="text" id = "middleName" name="middleName"/></td></tr>
+            <tr><td>Last Name</td><td><input type="text" id = "lastName" name="lastName"/></td></tr>
+            <tr><td>Age</td><td><input type="text" id = "age" name="age"/></td></tr>
+            <tr><td>Gender</td><td><input type="text" id = "gender" name="gender"/></td></tr>
+            <tr><td>Phone</td><td><input type="text" id = "phone" name="phone"/></td></tr>
+            <tr><td>Zip</td><td><input type="text" id = "zip" name="zip"/></td></tr>
+            <tr></tr> <tr></tr><tr></tr><tr></tr>
+            <tr><td></td><td><input type="button" id="Insert" value="Insert" onclick = "return Hello();"/>
+            </td></tr>
+            </table><br/>
+            <div id="loginResult"></div>
+        </form>
+ 
+  
+ 
+  
+        
+    </body>
+
+</html>

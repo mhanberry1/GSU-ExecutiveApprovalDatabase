@@ -1,0 +1,3 @@
+UPDATE ead SET country = TRIM(TRAILING '\r' FROM country);
+UPDATE ead SET appappdis = 100 * positive/(positive + positive - Net) WHERE Net!=0 and appappdis=0;
+UPDATE ead SET appappdis = NULL, Net = NULL WHERE appappdis = 0;

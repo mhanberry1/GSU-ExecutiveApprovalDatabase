@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Exective Approval</title>
+	<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+    <script type="text/JavaScript" src="common-functions.js"></script>
+    <script type="text/JavaScript" src="data-administrator-register.js"></script>
+	<link href='login-register.css' rel='stylesheet' type='text/css'>
+    <style>
+    </style>
+</head>
+<body>
+	<h2 id="banner">Executive Approval Database Administrator - Register</h2>
+	<div id="smallContainer">
+		<table>
+			<tr><td>User Name</td><td><input id="userName" /></td></tr>
+			<tr><td>Password</td><td><input type="password" id="password" /></td></tr>
+			<tr><td>Confirm Password</td><td><input type="password" id="confirm" /></td></tr>
+			<tr><td>Email</td><td><input id="email" /></td></tr>
+			<tr><td>Full name</td><td><input id="name" /></td></tr>
+			<tr><td>Referral Code</td><td><input id="referral" /></td></tr>
+			<tr>
+				<td class="center">
+					<a href="data-administrator-login.html">Back</a>
+				</td>
+				<td class="center">
+					<a class="clickable" onclick="register()">Register</a>
+				</td>
+			</tr>
+		</table>
+		<br/>
+		<span id="message" class="message"></span>
+	</div>
+</body>
+</html>

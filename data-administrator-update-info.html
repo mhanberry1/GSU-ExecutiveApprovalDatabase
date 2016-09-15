@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Exective Approval</title>
+	<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+    <script type="text/JavaScript" src="common-functions.js"></script>
+    <script type="text/JavaScript" src="data-administrator-update-info.js"></script>
+	<link href='login-register.css' rel='stylesheet' type='text/css'>
+    <style>
+    </style>
+</head>
+<body onload="getUserInformation()">
+	<h2 id="banner">Executive Approval Database Administrator - Update Info</h2>
+	<div id="smallContainer">
+		<table>
+			<tr><td>User Name</td><td><span id="userName" /></td></tr>
+			<tr><td>Old Password</td><td><input type="password" id="oldPassword" /></td></tr>
+			<tr><td>New Password</td><td><input type="password" id="newPassword" /></td></tr>
+			<tr><td>Confirm Password</td><td><input type="password" id="confirmPassword" /></td></tr>
+			<tr><td>Email</td><td><input id="email" /></td></tr>
+			<tr><td>Full name</td><td><input id="name" /></td></tr>
+			<tr>
+				<td class="center">
+					<a href="data-administrator-user.html">Back</a>
+				</td>
+				<td class="center">
+					<a class="clickable" onclick="save()">Save</a>
+				</td>
+			</tr>
+		</table>
+		<span class="message">Leave password fields blank if you don't intend to change your password.</span>
+		<br/>
+		<span id="message" class="message"></span>
+	</div>
+</body>
+</html>

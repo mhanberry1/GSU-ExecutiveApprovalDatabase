@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Exective Approval</title>
+<script type="text/JavaScript" src="main.js"></script>
+
+<style>
+body {
+	background-color: #b0c4de;
+}
+
+#fromyear {
+	display: inline-block;
+}
+
+#frommonth {
+	display: inline-block;
+}
+
+#toyear {
+	display: inline-block;
+}
+
+#tomonth {
+	display: inline-block;
+}
+</style>
+</head>
+<center>
+	<body onload="javascript:autoload();">
+		<form name="Home">
+		<h2>Executive Approval Database Visualization</h2>
+			<table>
+				<tr>
+				<td>Country:</td>
+				<td><div id="country">
+						</div></td>
+				</tr>
+				<tr></tr><tr></tr>
+				<tr><td>Selection:</td><td>
+				<input type="radio" name="sel" id = "radate" value="Date" checked disabled>By Date
+  				<input type="radio" name="sel" id = "radex" value="Executive" disabled>By Executive
+				
+				</td></tr>
+				<tr></tr><tr></tr>
+				<tr>
+					<td>Chart Type:</td>
+					<td><div id="selinit">
+							<select id="chart" onchange = "datacalc()" disabled>
+								<option value="calmeth">Select Chart Type</option>
+								<option value="datachart">Multi Data Source</option>
+								<option value="calchart">Multi Calculation Method</option>
+							</select>
+						</div></td>
+				</tr>
+				<tr></tr><tr></tr>
+				
+				<tr>
+					<td>Calculation Method:</td>
+					<td><div id="calc">
+							<select id = "initcalc" multiple disabled>
+								<option value="positive">Combined</option>
+								<option value="net">Net</option>
+								<option value="appappdis">appappdis</option>
+							</select>
+						</div></td>
+				</tr>
+				<tr></tr><tr></tr>
+					<tr>
+					<td>Data Sources:</td>
+					<td><div id="datasource">
+							<select multiple disabled>
+								<option value="Moriges">Moriges</option>
+								<option value="Lb">Lb</option>
+								<option value="Datamatica">Datamatica</option>
+								<option value="Lapop">Lapop</option>
+							</select>
+						</div></td>
+				</tr>
+				<tr></tr><tr></tr>
+				<tr>
+					<td>Calendar:</td>
+					<td>
+						<div id="fromyear">
+							From:<input type="text" id="from" name="from" disabled/>
+						</div>
+						<div id="frommonth"></div>
+					
+						<div id="toyear">
+							To:<input type="text" id="to" name="to" disabled/>
+						</div>
+						<div id="tomonth"></div>
+					</td>
+				</tr>
+				<tr></tr>
+				<tr><div id = "timedummy"></div></tr>
+				<tr>
+					<td></td>
+					<td><input type="button" value="Generate Table"
+						onclick="GenerateChart();">
+						<input type="button" value="Generate Chart"
+						onclick="Generategraph();">
+					
+					<button type="button" onclick="window.open('alldata.csv')">Download!</button>
+					
+					</td>
+				</tr>
+			</table>
+			<br> <br>
+			<div id="results"></div>
+			<div id="div1"></div>
+			<div id="div2"></div>
+		</form>
+	</body>
+</center>
+</html>

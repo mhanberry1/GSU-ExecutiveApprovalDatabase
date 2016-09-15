@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Exective Approval</title>
+	<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+	<link href='data-administrator.css' rel='stylesheet' type='text/css'>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+    <script type="text/JavaScript" src="common-functions.js"></script>
+    <script type="text/JavaScript" src="data-administrator.js"></script>
+</head>
+<body onload="autoload();" onresize="tableResize()">
+	<table id="userPanel">
+		<tr>
+			<td><a href="data-administrator-user.html" id="userName">Me!</a></td>
+			<td class="seperator"></td>
+			<td><a href="data-administrator-logout.jsp">Logout</a></td>
+		</tr>
+	</table>
+	<br/>
+	<br/>
+	<h2 id="banner">Executive Approval Database Administrator - Main</h2>
+	<div class="mainContainer">
+		<div id="country"></div>
+		<a id="otherTableLink" href="data-administrator-series-information.html">Edit series information database</a>
+		<label id="messageText">Saved</label>
+		<br/><br/>
+		<div id="divTableContainer">
+			<table id="controlTable">
+				<tr>
+					<td><a id="refreshButton" class="controlButton" onclick="countryChanged()">Refresh</a></td>
+					<td><a id="deleteButton" class="controlButton" onclick="deleteSelected()">Delete</a></td>
+				</tr>
+			</table>
+			<table id="dataTableHeader" border="0">
+				<tr>
+					<td>
+				</tr>
+			</table>
+			<div id="divTableContainerInner">
+				<table id="dataTable">
+				</table>
+			</div>
+		</div>
+		<div id="divInsert">
+			<p class="info">Enter data in separated by tabs, terminated by a new line.<br/> (You can copy and paste content in from Microsoft Excel)</p>
+			<p class="infoSmall">Order: Series, Date, N, Positive, Net, App / (App + Dis), Source, Country (Optional)</p>
+			<textarea id="rowInsert"></textarea>
+			<a id="insertButton" class="controlButton" onclick="insertData()">Insert</a>
+		</div>
+	</div>
+</body>
+</html>

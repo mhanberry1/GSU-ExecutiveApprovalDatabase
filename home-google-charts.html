@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Exective Approval</title>
+	<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/JavaScript" src="main-google-charts.js"></script>
+	
+    <style>
+        body {
+            background-color: #b0c4de;
+			font-family: Montserrat, Verdana;
+			padding: 30px;
+        }
+		#countries {
+			font-family: Montserrat, Verdana;
+		}
+		.loadingIcon {
+			width: 100px;
+			height: 100px;
+			margin: auto;
+			display: none;
+		}
+		#banner {
+			text-align: center;
+		}
+		#leftCell {
+			width: 20%;
+		}
+		#divSeriesControl {
+			display: block;
+			
+		}
+		#divDateControl {
+			display: block;
+			height: 50px;
+		}
+		#divChart {
+			display: block;
+		}
+		#divBottom {
+			background-color: #FFFFFF;
+			display: block;
+			background-color: #FFFFFF;
+			border: 2px solid #66FF99;
+			border-radius: 15px;
+			font-weight: bold;
+			padding: 20px;
+			text-align: left;
+			display: none;
+		}
+		#divFilter {
+			display: block;
+			background-color: #FFFFFF;
+			border: 2px solid #66FF99;
+			border-radius: 15px;
+			padding: 20px;
+			font-weight: bold;
+		}
+		#divTableDateControl {
+			display: block;
+			height: 50px;
+		}
+		#calc select{
+			width: 200px;
+		}
+		Button {
+			font-size: 24px;
+			border-radius: 5px;
+			padding: 6px;
+			font-family: Montserrat, Verdana;
+		}
+		.info {
+			font-size: 12px;
+			color: #FF4477;
+			font-family: Montserrat, Verdana;
+		}
+		#btnLoadTable {
+			display: none;
+		}
+		#btnDownloadChart, #btnDownloadTable {
+			display: block;
+			margin-right: 0;
+			margin-left: auto;
+			font-size: 12px;
+			background-color: #A432FF;
+			color: #FFFFFF;
+		}
+		.downloadLink {
+			color: #FF8484;
+			font-size: 12px;
+			text-align: right;
+			margin-right: 0;
+			margin-left: auto;
+		}
+		#aDownloadChart, #aDownloadTable {
+			display: none;
+		}
+    </style>
+</head>
+<body onload="autoload();">
+	<h2 id="banner">Executive Approval Database Visualization</h2>
+	<div id="divFilter">
+		<table>
+			<tr>
+				<td>Country:</td>
+				<td>
+					<div id="country"></div>
+				</td>
+				<td>
+					<input type="radio" name="calculationMethod" id="rdioMultiSource" onclick="methodChange()" checked>Multiple data sources</radio>
+					<input type="radio" name="calculationMethod" id="rdioMultiMethod" onclick="methodChange()">Multiple calculation methods</radio>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<br/>	
+	<div id="divBottom">
+		<img id="imgChartLoading" class="loadingIcon" src="loading.gif" alt="loading" />
+		<p id="questionWording" />
+		<div id="divDashboardChart">
+			<div id="divCalculationControl">
+			</div>
+			<br/>
+			<div id="divSeriesControl">
+			</div>
+			<br/>
+			<span class="info">(Drag on chart to zoom, right click to reset)</span>
+			<div id="divChart">
+			</div>
+			<br/>
+			<br/>
+		</div>
+		<button id="btnDownloadChart" onclick="downloadChart()">Download Chart</button>
+		<a id="aDownloadChart" class="downloadLink">Download as PNG</a>
+		<br/>
+		<hr/>
+		<br/>
+		<button id="btnLoadTable" onclick="loadTable()">Load table</button>
+		<img id="imgTableLoading" class="loadingIcon" src="loading.gif" alt="loading" />
+		<div id="divDashboardTable">
+			<div id="divTableSeriesControl">
+			</div>
+			<br/>
+			<div id="divTableDateControl">
+			</div>
+			<span id='tableInfoTip' class="info">(Click on column label to sort by that column)</span>
+			<br/>
+			<div id="divTable">
+			</div>
+		</div>
+		<br/>
+		<button id="btnDownloadTable" onclick="downloadTable()">Download Table</button>
+		<a id="aDownloadTable" class="downloadLink">Download as CSV</a>
+	</div>
+</body>
+</html>

@@ -1,0 +1,289 @@
+Argentina	LB	Latinobarometer (Gestión)	Gestión	¿Usted aprueba o no aprueba la gestión del gobierno que encabeza el presidente [nombre]?
+Argentina	LAPOP	AmericasBarometer (Trabajo)	Trabajo	Hablando en general del actual gobierno, ¿diría usted que el trabajo que está realizando el/la presidente/a es muy bueno, bueno, ni bueno ni malo, malo, o muy malo?
+Argentina	MORAYARAUJOECNAC	IPSOS Mora y Araujo (Image, National) * E. Calvo	Imagen	¿Cuál es la imagen que tiene usted de [nombre]?
+Argentina	MORAYARAUJOFGNAC	IPSOS Mora y Araujo (Image, National) * F. Gélineau	Imagen	¿Cuál es la imagen que tiene usted de [nombre]?
+Argentina	MORAYARAUJOFGGBA	IPSOS Mora y Araujo (Image, Gran Buenos Aires) * F. Gélineau	Imagen	¿Cuál es la imagen que tiene usted de [nombre]?
+Argentina	POLIARQUIA	Poliarquía (Image)	Imagen	¿Tiene usted una imagen positiva o negativa de [nombre]? Muy bien, Bien, Regular, Mal, Muy mal
+Argentina	MGTFITAPP	Management & Fit (Conducir)	Conduciendo	¿Usted aprueba o desaprueba la forma en que [nombre] está conduciendo el gobierno nacional?
+Argentina	MGTFITIMAG	Management & Fit (Image)	Imagen	¿Cuál es su percepción de la imagen de [nombre]?
+Argentina	IBAROMETRO_GOB	Ibarómetro (Image President's Government)	Imagen	¿Qué imagen tiene del Gobierno Nacional de [nombre]?
+Argentina	IBAROMETRO_IMG	Ibarómetro (Image President)	Imagen	¿Qué imagen tiene de [nombre]?
+Argentina	ANALOGIASIMAG	Analogías (Image)	Imagen	Imagen: positiva v. negativa
+Argentina	ANALOGIASGES	Analogías (Gestión)	Gestión	Gestión: aprueba v. desaprueba
+Argentina	RROUVIERIMAG	Ricardo Rouvier (Image)	Imagen	Imagen: positiva v. negativa
+Argentina	EQUIS	Equis (Image)	Imagen	¿Tiene usted una imagen positiva o negativa de [nombre]?
+Argentina	CEOP	CEOP/Centro de Estudios de Opinión Pública (Gestión)	Gestión	Gestión: aprueba v. desaprueba
+Argentina	CEOPIMAG	CEOP/Centro de Estudios de Opinión Pública (Image)	Imagen	Imagen: positiva v. negativa
+Argentina	OPSM	OPSM/Opinión Pública Servicios y Mercados (Gestión)	Gestión	Gestión:How would you rate the performance of [name] as president?
+Argentina	OPSM3	OPSM/Opinión Pública Servicios y Mercados (Image)	Opinión	What is your opinion of current president [name]?
+Argentina	OPSMADMIN	OPSM/Opinión Pública Servicios y Mercados (Administration)	Administration	Do you support or not support the [last name] Adminsitration?
+Argentina	SOCMERCPRESIMAG	Socmerc (Image)	Imagen	Imagen: positiva v. negativa
+Argentina	CATTERBERG	Edgardo Catterberg (Image)	Imagen	Imagen: positiva v. negativa
+Argentina	ROMER	Graciela Römer y Asociados National (Gestión)	Gestión	 Do you have a positive or negative opinion of [name] performance as president?
+Argentina	ROMER3GBA	Graciela Römer y Asociados Gran Buenos Aires (Gestión)	Gestión	 Do you have a positive or negative opinion of [name] performance as president?
+Argentina	CARLOSFARA	Carlos Fara (Gestión)	Gestión	Gestión del gobierno nacional
+Argentina	GALLUPAPP	Barómetro Iberoamericano de Gobernabilidad (Gestión)	Gestión	¿Usted aprueba o desaprueba la gestión del Presidente?
+Argentina	GALLUPDESEMP	Barómetro Iberoamericano de Gobernabilidad (Desempeño)	Desempeño	¿Cómo calificaría usted el desempeño del presidente [nombre]?
+Argentina	HUGOHAIME	Hugo Haime (Performance)	Desempeño	Desempeño
+Argentina	ARAGON	Raúl G. Aragón & Asociados (Opinion)	Opinión	¿Cuál es su opinión de [name]?
+Argentina	FRAGA	Rosendo Fraga/Nueva Mayoría (Image)	Imagen	Imagen: positiva v. regular v. negativa
+Argentina	GIACOBBE	Giacobbe y Asociados (Image)	Imagen	¿Qué imagen personal tiene sobre las siguientes figuras políticas?
+Argentina	MORIIMAG	Equipos MORI (Image)	Imagen	Imagen: buena v. ni buena ni mala v. mala
+Argentina	MORIGES	Equipos MORI (Gestión)	Gestión	Gestión: aprueba v. ni aprueba ni desaprueba v. desaprueba
+Argentina	ARESCO	Aurelio Aresco (Gestión)	Gestión	Gestión: muy/buena v. regular v. muy/mala
+Argentina	ISONOMIAIMAG	Isonomía (Image)	Imagen	¿Usted tiene una imagen muy buena, buena, mala o muy mala de [nombre]?
+Argentina	DATAMATICA	Datamática Política y Gobierno (Gestión)	Gestión	Imagen de la gestión presidencial
+Argentina	RETAMARGEST	Retamar (Gestión)	Gestión	Evaluacion de gestion de [presidente]
+Argentina	RETAMAR	Retamar (Haciendo las cosas)	Haciendo	¿Como cree que está haciendo las cosas el/la Presidente/a [nombre]?
+Bolivia	IPSOS_APOYO	IPSOS Apoyo (Gestión)	Gestión	En general, ¿Diría usted que aprueba o desaprueba la gestion del presidente [nombre]?
+Bolivia	EQUIPOS_MORI	Equipos MORI (Gestión)	Gestión	¿Ud. Aprueba o desaprueba la gestion del Gobierno del Presidente [nombre]?
+Bolivia	CAPTURA	Captura (Gestión)	Gestión	¿Aprueba o desaprueba usted la gestión de [nombre] como Presidente de Bolivia? Para la que se puso en consideración tres opciones de respuesta: apruebo, desapruebo, y No Sabe/No Responde (NS/NR).
+Bolivia	LB	Latinobarometer (Gestión)	Gestión	¿Usted aprueba o no aprueba la gestión del gobierno que encabeza el presidente [nombre]?
+Bolivia	LAPOP	AmericasBarometer (Trabajo)	Trabajo	Hablando en general del actual gobierno, ¿diría usted que el trabajo que está realizando el/la presidente/a es muy bueno, bueno, ni bueno ni malo, malo, o muy malo?
+Bolivia	DATASIETE	Data Siete (Gestión)	Gestión	En general, ¿Diría usted que aprueba o desaprueba la gestión del presidente [nombre]?
+Bolivia	TALCUAL	Tal Cual (Gestión)	Gestión	Aprobación de la gestión de Presidente [nombre]
+Bolivia	MERCADOSMUESTRAS	Mercados y Muestras (Gestión)	Gestión	¿Cómo calificaría usted la gestión del presidente [nombre]?
+Bolivia	UNIVERSIDADES	UMSA, UMSS y UAGRM (Gestión)	Gestión	Aprobación de la gestión de Presidente [nombre]
+Bolivia	CIMAAPOYOAPP	Barómetro Iberoamericano de Gobernabilidad (Gestión)	Gestión	¿Usted aprueba o desaprueba la gestión del Presidente?
+Bolivia	CIMAAPOYODESMP	Barómetro Iberoamericano de Gobernabilidad (Desempeño)	Desempeño	¿Cómo calificaría usted el desempeño del presidente [nombre]?
+Bolivia	MORAYARAUJO	Mora y Araujo		
+Brazil	GALLUP	Gallup Brazil		
+Brazil	DATAFOLHA	Datafolha (Gobierno)	Gobierno	Na sua opinão o presidente Jose Sarney esta fazendo um governo ótimo, bom, regular, ruim, ou péssimo?
+Brazil	CNT-MDA	CNT/Confederação Nacional do Transporte-MDA Pesquisa (Desempenho)	Desempeño	Como você avalia o desempenho do governo presidente Luiz Inácio Lula da Silva? está sendo ótimo, bom, regular, ruim ou péssimo?
+Brazil	INSTSENSUS	CNT/Confederação Nacional do Transporte-Instituto Sensus (Desempenho pessoal)	Desempeño	Como você avalia o desempenho pessoal do presidente Luiz Inácio Lula da Silva à frente do governo: aprova ou desaprova?
+Brazil	INSTSENSUS3	CNT/Confederação Nacional do Transporte-Institutos Sensus (Desempenho)	Desempeño	Como você avalia o desempenho do presidente Fernando Henrique Cardoso à frente do governo: está sendo ótimo, bom, regular, ruim ou péssimo?
+Brazil	CNT-VOXPOPULI 	CNT/Confederação Nacional do Transporte-Vox Populi (Desempenho)	Desempeño	Como você avalia o desempenho do presidente Fernando Henrique Cardoso à frente do governo: está sendo ótimo, bom, regular, ruim ou péssimo?
+Brazil	VOXPOPULI  	Vox Populi (Desempenho)	Desempeño	Como você avalia o desempenho do presidente Fernando Henrique Cardoso à frente do governo: está sendo ótimo, bom, regular, ruim ou péssimo?
+Brazil	LB	Latinobarometer (Gestión)	Gestión	
+Brazil	LAPOP	AmericasBarometer (Trabalho)	Trabajo	Falando em geral do atual governo, como o(a) sr./sra. avalia o trabalho que a Presidenta Dilma está realizando muito bom, bom, nem bom, nem mau/regular, mau, muito mau péssimo
+Brazil	CIMAAPOYOAPP	Barómetro Iberoamericano de Gobernabilidad (Gestión)	Gestión	¿Usted aprueba o desaprueba la gestión del Presidente?
+Brazil	CIMAAPOYODESMP	Barómetro Iberoamericano de Gobernabilidad (Desempenho)	Desempeño	¿Cómo calificaría usted el desempeño del presidente [nombre]?
+Chile	CEP	CEP/Centro de Estudios Públicos (Conduciendo)	Conduciendo	Independientemente de su posición política, ¿Ud. aprueba o desaprueba la forma como Michelle Bachelet está conduciendo su gobierno?
+Chile	CERC	CERC/Centro de Estudios de la Realidad Contemporánea (Gestión)	Gestión	¿Usted aprueba o no aprueba la gestión del gobierno que encabeza el/la presidente/a [nombre]?
+Chile	FUNDFUTURO	Fundación Futuro		
+Chile	ADIMARK	Adimark GfK (Conducting)	Conduciendo	Independiente de su posición política, ¿usted aprueba o desaprueba la forma como [nombre] está conduciendo su gobierno?
+Chile	LATERCERA	La Tercera (Gestión)	Gestión	Independiente de su posición política, ¿usted aprueba o desaprueba la gestión de el/la Presidente/a [nombre]?
+Chile	UDP	Universidad Diego Portales (Desempeño)	Desempeño	¿Ud. Aprueba o desaprueba la forma en que [Pres name] se ha desempenado como Presidenta de la Republica?
+Chile	ELMERCURIOOPINA	El Mercurio-Opina Estudios de Mercado (Nombre)	Nombre	¿Usted apoya a el/la Presidente/a [nombre]?
+Chile	CADEM	CADEM (Conduciendo)	Conduciendo	Independiente de su posición política, ¿Usted aprueba o desaprueba la forma como [nombre]está conduciendo su gobierno?
+Chile	CIMAAPP	Barómetro Iberoamericano de Gobernabilidad (Gestión)	Gestión	¿Usted aprueba o desaprueba la gestión del Presidente?
+Chile	CIMADESEMP	Barómetro Iberoamericano de Gobernabilidad (Desempeño)	Desempeño	¿Cómo calificaría usted el desempeño del presidente [nombre]?
+Chile	LB	Latinobarometer (Gestión)	Gestión	¿Usted aprueba o no aprueba la gestión del gobierno que encabeza el presidente [nombre]?
+Chile	LAPOP	AmericasBarometer (Trabajo)	Trabajo	Hablando en general del actual gobierno, ¿diría usted que el trabajo que está realizando el/la presidente/a es muy bueno, bueno, ni bueno ni malo, malo, o muy malo?
+Chile	IMAGINACCION	Imaginacción (Conduciendo)	Conduciendo	Independiente de su posición política, ¿Usted aprueba o desaprueba la forma como [nombre]está conduciendo su gobierno?
+Chile	IPSOSMORIDES	IPSOS-MORI (Desempeño)	Desempeño	En general, ¿Ud. Aprueba o desaprueba la manera en que el/la presidente/a [nombre] se está desempeñando?
+Chile	IPSOSMORIMAN	IPSOS-MORI (Manejando)	Manejando	En general, ¿Ud. Aprueba o desaprueba la manera en que el/la presidente/a [nombre]  está manejando el gobierno?
+Chile	IPSOSMORICON	IPSOS-MORI (Conduciendo)	Conduciendo	Independiente de su posición política, ¿Usted aprueba o desaprueba la forma como [nombre] está conduciendo el gobierno?
+Chile	GIROPAIS	Giro País - Subjectiva (Gestión)	Gestión	Hasta el día de hoy, ¿Usted aprueba o desaprueba la gestión de el/la Presidente/a [nombre]?
+Chile	UDD	Universidad de Desarrollo (Gestión)	Gestión	¿Cómo evalúa usted la gestión que está realizando el/la Presidente/a [nombre]?
+Chile	ISUCMONTH	Instituto de Sociologia de la Universidad Católica de Chile (Conduciendo)	Conduciendo	¿Usted aprueba o desaprueba la forma como [nombre] está conduciendo su gobierno?
+Chile	ISUCIMA	Instituto de Sociologia de la Universidad Católica de Chile (Imagen)	Imagen	Imagen favorable o desfavorable
+Chile	ISUCPANEL	Instituto de Sociologia de la Universidad Católica de Chile (Conduciendo)	Conduciendo	¿Usted aprueba o desaprueba la forma como [nombre] está conduciendo su gobierno?
+Chile	ISUCPANELFAV	Instituto de Sociologia de la Universidad Católica de Chile (Imagen)	Imagen	Imagen favorable o desfavorable
+Chile	ISUCSPEC	Instituto de Sociologia de la Universidad Católica de Chile (Conduciendo)	Conduciendo	¿Usted aprueba o desaprueba la forma como [nombre] está conduciendo su gobierno?
+Chile	ICCOM	ICCOM Investigación de Mercado (Conduciendo)	Conduciendo	¿Usted aprueba o desaprueba la forma como [nombre] está conduciendo su gobierno?
+Colombia	CNCGES	CNC/Centro Nacional de Consultoría (Gestión)	Gestión	¿Usted aprueba o desaprueba la gestión del presidente [nombre] en lo que va de su gobierno?
+Colombia	CNCIMAG	CNC/Centro Nacional de Consultoría (Imagen)	Imagen	¿Usted tiene una imagen positiva o negativa del presidente [nombre]?
+Colombia	YanhaasAP	Yanhaas (Conduciendo)	Conduciendo	Independiente de su posición política, ¿usted apreuba o desaprueba la forma como [nombre] está conduciendo su gobierno?
+Colombia	GALLUPFAV	Gallup Colombia (Opinión)	Opinión	En general, ¿tiene usted una opinión favorable o desfavorable del presidente?
+Colombia	GALLUPDES	Gallup Colombia (Desempeño)	Desempeño	En general, ¿usted aprueba o desaprueba la forma como [nombre] está desempeñando en su labor como presdiente?
+Colombia	NAPOLEON_FRANCO_TRAB	Napoleón Franco (Trabajo)	Trabajo	¿Está Ud. satisfecho o insatisfecho con el trabajo que está haciendo Juan Manuel Santos como Presidente?
+Colombia	NAPOLEON_FRANCO_IMG	Napoleón Franco (Imagen)	Imagen	¿Usted tiene una imagen favorable o desfavorable del Presidente de la República [nombre]?
+Colombia	DATEXCOMAN	Datexco (Manejando)	Manejando	¿Usted aprueba o desaprueda la manera como el presidente está manejando el pais?
+Colombia	DATEXCOIMG	Datexco (Imagen)	Imagen	¿Usted tiene una imagen favorable o desfavorable del presidente [nombre]?
+Colombia	CIFRASYCONCEPTOS_IMG	Cifras y Conceptos (Imagen)	Imagen	¿Tiene usted una imagen favorable o desfavorable de las siguientes personas?
+Colombia	CIMACNCAPP	Barómetro Iberoamericano de Gobernabilidad (Gestión)	Gestión	¿Usted aprueba o desaprueba la gestión del Presidente?
+Colombia	CIMACNCDESEMP	Barómetro Iberoamericano de Gobernabilidad (Desempeño)	Desempeño	¿Cómo calificaría usted el desempeño del presidente [nombre]?
+Colombia	LB	Latinobarometer (Gestión)	Gestión	¿Usted aprueba o no aprueba la gestión del gobierno que encabeza el presidente [nombre]?
+Colombia	LAPOP	AmericasBarometer (Trabajo)	Trabajo	Hablando en general del actual gobierno, ¿diría usted que el trabajo que está realizando el/la presidente/a es muy bueno, bueno, ni bueno ni malo, malo, o muy malo?
+Costa Rica	CIDGALLUP	CID-Gallup (Desempeño)	Desempeño	¿Diría que ha desempeñado sus labores muy bien, algo bien, ni bien ni mal, algo mal o muy mal?
+Costa Rica	CIDGALLUPFAV	CID-Gallup (Trabajo)	Trabajo	
+Costa Rica	CIDGALLIPAPP	CID-Gallup (Labor)	Labor	Y a nivel general, ¿aprueba o desaprueba las labores de [NOMBRE] como Presidente?
+Costa Rica	DEMOSCOPIA	Demoscopia (Gestión)	Gestión	
+Costa Rica	UNIMER	Unimer (Trabajo)	Trabajo	
+Costa Rica	UCR	Universidad de Costa Rica (Opinión)	Opinión	¿Tiene usted una opinión favorable o desfavorable del presidente?
+Costa Rica	UNACIONAL	Universidad Nacional		
+Costa Rica	LB	Latinobarometer (Gestión)	Gestión	¿Usted aprueba o no aprueba la gestión del gobierno que encabeza el presidente [nombre]?
+Costa Rica	LAPOP	AmericasBarometer (Trabajo)	Trabajo	Hablando en general del actual gobierno, ¿diría usted que el trabajo que está realizando el/la presidente/a es muy bueno, bueno, ni bueno ni malo, malo, o muy malo?
+Costa Rica	CIMAAPP	CNC/Centro Nacional de Consultoría (Gestión)	Gestión	¿Usted aprueba o desaprueba la gestión del presidente [nombre] en lo que va de su gobierno?
+Costa Rica	CIMADESEMP	CNC/Centro Nacional de Consultoría (Imagen)	Imagen	¿Usted tiene una imagen positiva o negativa del presidente [nombre]?
+Costa Rica	BORGEYASOC	Borge y Asociados (Trabajo)	Trabajo	¿Piensa que el gobierno de [nombre] esta trabajando….?
+Dominican Republic	LB	Latinobarometer (Gestión)	Gestión	¿Usted aprueba o no aprueba la gestión del gobierno que encabeza el presidente [nombre]?
+Dominican Republic	LAPOP	AmericasBarometer (Trabajo)	Trabajo	Hablando en general del actual gobierno, ¿diría usted que el trabajo que está realizando el/la presidente/a es muy bueno, bueno, ni bueno ni malo, malo, o muy malo?
+Dominican Republic	CIBAO	Centro Economico del Cibao (Desempeño)	Desempeño	Y ¿cómo califica usted el desempeño de [NOMBRE] en su gestión como Presidente de la República Dominicana?
+Dominican Republic	CIMASIGMA2DR	Barómetro Iberoamericano de Gobernabilidad (Gestión)	Gestión	¿Usted aprueba o desaprueba la gestión del Presidente?
+Dominican Republic	CIMAS2DESM	Barómetro Iberoamericano de Gobernabilidad (Desempeño)	Desempeño	¿Cómo calificaría usted el desempeño del presidente [nombre]?
+Dominican Republic	CIDGALLUP	CID-Gallup (Desempeño)	Desempeño	¿Diría que ha desempeñado sus labores muy bien, algo bien, ni bien ni mal, algo mal o muy mal?
+Dominican Republic	CIDGALLUPFAV	CID-Gallup (Opinión)	Opinión	¿Tiene usted una opinión favorable o desfavorable del presidente [NOMBRE]?
+Dominican Republic	Keller	Keller		
+El Salvador	LB	Latinobarometer (Gestión)	Gestión	¿Usted aprueba o no aprueba la gestión del gobierno que encabeza el presidente [nombre]?
+El Salvador	LAPOP	AmericasBarometer (Trabajo)	Trabajo	Hablando en general del actual gobierno, ¿diría usted que el trabajo que está realizando el/la presidente/a es muy bueno, bueno, ni bueno ni malo, malo, o muy malo?
+El Salvador	CIMABORGEDESEM	Barómetro Iberoamericano de Gobernabilidad (Gestión)	Gestión	¿Usted aprueba o desaprueba la gestión del Presidente?
+El Salvador	CIMABORGEAPP	Barómetro Iberoamericano de Gobernabilidad (Desempeño)	Desempeño	¿Cómo calificaría usted el desempeño del presidente [nombre]?
+El Salvador	LPGDATOS	LPGDatos (Trabajo)	Trabajo	¿Usted aprueba o desaprueba el trabajo que ha realizado [NOMBRE} como presidente hasta el momento?
+El Salvador	IUDOPACT	Instituto Universitario de Opinión Pública UCA (Actuación)	Actuación	¿Cómo evalua la actuacion del presidente [NOMBRE] en el gobeirno?
+El Salvador	IUDOPGES	Instituto Universitario de Opinión Pública UCA (Gestión)	Gestión	En general, ¿cómo evalúa la gestión del presidente [NOMBRE] en el gobierno?
+El Salvador	IUDOPDES	Instituto Universitario de Opinión Pública UCA (Desempeño)	Desempeño	En general, ¿cómo calificaría el desempeño del presidente [NOMBRE]…?
+El Salvador	IUDOPGOB	Instituto Universitario de Opinión Pública UCA (Gobernar)	Gobernar	En su opinión, ¿el presidente Francisco Flores está gobernando bien al país o lo está gobernando mal?
+El Salvador	CIDGALLUP	CID-Gallup (Desempeño)	Desempeño	¿Diría que ha desempeñado sus labores muy bien, algo bien, ni bien ni mal, algo mal o muy mal?
+El Salvador	CIDGALLIPAPP	CID-Gallup (Gestión)	Gestión	¿Usted aprueba o desaprueba la gestión del Presidente?
+El Salvador	CIDGALLUPF	CID-Gallup (Opinión)	Opinión	¿Tiene usted una opinión favorable o desfavorable del presidente [NOMBRE]?
+El Salvador	MITOFSKY	Mitofsky (Gobernar)	Gobernar	¿Está de acuerdo o desacuerdo con la manera en que [NOMBRE] está gobernando”
+El Salvador	JABESPERF	Jabes-JBS (Desempeño)	Desempeño	¿Cómo calificaría usted el desempeño del presidente [nombre]?
+El Salvador	JABESSAT	Jabes-JBS (Gobierno)	Gobernar	¿Está usted satisfecho con el gobierno del Presidente Mauricio Funes?
+Guatemala	CIDGALLUP	CID-Gallup (Desempeño)	Desempeño	¿Diría que ha desempeñado sus labores muy bien, algo bien, ni bien ni mal, algo mal o muy mal?
+Guatemala	GALLUPFAV	CID-Gallup (Opinión)	Opinión	¿Tiene usted una opinión favorable o desfavorable del presidente [NOMBRE]?
+Guatemala	CIDGALLUPAPP	CID-Gallup (Gestión)	Gestión	¿Usted aprueba o desaprueba la gestión del Presidente?
+Guatemala	LB	Latinobarometer (Gestión)	Gestión	¿Usted aprueba o no aprueba la gestión del gobierno que encabeza el presidente [nombre]?
+Guatemala	LAPOP	AmericasBarometer (Trabajo)	Trabajo	Hablando en general del actual gobierno, ¿diría usted que el trabajo que está realizando el/la presidente/a es muy bueno, bueno, ni bueno ni malo, malo, o muy malo?
+Guatemala	LAPOPFAV	AmericasBarometer (Opinión)	Opinión	
+Guatemala	PRODATOS	Prodatos (Gestión)	Gestión	En general, ¿cómo evalúa la gestión del presidente [NOMBRE] en el gobierno?
+Guatemala	PRODATOSPRESINDEX	Prodatos (Índice)	Índice	
+Guatemala	BORGEYASOCAGR	Borge y Asociados (Opinión)	Opinión	Agrada/buena
+Guatemala	BORGEYASOCGES	Borge y Asociados (Gestión)	Gestión	¿Cómo califica la gestión de [NOMBRE] como presidente de Guatemala?
+Guatemala	VOXLATINAAPP	Vox Latina (Gestión)	Gestión	¿Usted aprueba o desaprueba la gestión del Presidente?
+Guatemala	CIMAAPP	Barómetro Iberoamericano de Gobernabilidad (Gestión)	Gestión	¿Usted aprueba o desaprueba la gestión del Presidente?
+Guatemala	CIMADESEMP	Barómetro Iberoamericano de Gobernabilidad (Desempeño)	Desempeño	¿Cómo calificaría usted el desempeño del presidente [nombre]?
+Honduras	LB	Latinobarometer (Gestión)	Gestión	¿Usted aprueba o no aprueba la gestión del gobierno que encabeza el presidente [nombre]?
+Honduras	LAPOP	AmericasBarometer (Trabajo)	Trabajo	Hablando en general del actual gobierno, ¿diría usted que el trabajo que está realizando el/la presidente/a es muy bueno, bueno, ni bueno ni malo, malo, o muy malo?
+Honduras	CIDGALLUP	CID-Gallup (Desempeño)	Desempeño	¿Diría que ha desempeñado sus labores muy bien, algo bien, ni bien ni mal, algo mal o muy mal?
+Honduras	GALLUPFAV	CID-Gallup (Opinión)	Opinión	¿Tiene usted una opinión favorable o desfavorable del presidente [NOMBRE]?
+Honduras	CIDGALLUPAPP	CID-Gallup (Gestión)	Gestión	¿Usted aprueba o desaprueba la gestión del Presidente?
+Honduras	CIMAAPP	Barómetro Iberoamericano de Gobernabilidad (Gestión)	Gestión	¿Usted aprueba o desaprueba la gestión del Presidente?
+Honduras	CIMADESEMP	Barómetro Iberoamericano de Gobernabilidad (Desempeño)	Desempeño	¿Cómo calificaría usted el desempeño del presidente [nombre]?
+Mexico	OPOPRMNTELACDGOB2	Opinión Pública de la Oficina de la Presidencia de la República Mexicana (Gobernar, national, telephone)	Gobernar	En general, ¿está usted de acuerdo o en desacuerdo con la manera como está gobernando el Presidente?
+Mexico	OPOPRMNTELAPPDES2	Opinión Pública de la Oficina de la Presidencia de la República Mexicana (Desempeño2, national, telephone)	Desempeño	En general, ¿aprueba o desaprueba el desempeño hasta estos momentos de [NOMBRE] como Presidente de México?
+Mexico	OPOPRMNTELAPPDES3	Opinión Pública de la Oficina de la Presidencia de la República Mexicana (Desempeño3, national, telephone)	Desempeño	En general, ¿aprueba o desaprueba el desempeño hasta estos momentos de [NOMBRE] como Presidente de México?
+Mexico	OPOPRMNTELAPPGOB2	Opinión Pública de la Oficina de la Presidencia de la República Mexicana (Desempeño, national, telephone)	Desempeño	En general, ¿aprueba o desaprueba el desempeño hasta estos momentos de Vicente Fox como Presidente de México?
+Mexico	OPOPRMNTELAPPTRAB3	Opinión Pública de la Oficina de la Presidencia de la República Mexicana (Trabajo, national, telephone)	Trabajo	En general, ¿usted aprueba o desaprueba la forma en que trabaja el presidente Felipe Calderón? Diría usted que lo aprueba mucho, aprueba algo, desaprueba algo o desaprueba mucho
+Mexico	OPOPRMNVIVACDGOB2	Opinión Pública de la Oficina de la Presidencia de la República Mexicana (Gobernar, national, home)	Gobernar	En general, ¿está usted de acuerdo o en desacuerdo con la manera como está gobernando el Presidente?
+Mexico	OPOPRMNVIVAPPDES2	Opinión Pública de la Oficina de la Presidencia de la República Mexicana (Desempeño2, national, home)	Desempeño	En general, ¿aprueba o desaprueba el desempeño hasta estos momentos de [NOMBRE] como Presidente de México?
+Mexico	OPOPRMNVIVAPPTRAB3	Opinión Pública de la Oficina de la Presidencia de la República Mexicana (Trabajo, national, home)	Trabajo	En general, ¿usted aprueba o desaprueba la forma en que trabaja el presidente [NOMBRE}? Diría usted que lo aprueba mucho, aprueba algo, desaprueba algo o desaprueba mucho
+Mexico	OPOPRM6VIVACDGOB2	Opinión Pública de la Oficina de la Presidencia de la República Mexicana (Gobernar, 6 cities, home)	Gobernar	En general, ¿está usted de acuerdo o en desacuerdo con la manera como está gobernando el Presidente?
+Mexico	OPOPRM3VIVACDGOB2	Opinión Pública de la Oficina de la Presidencia de la República Mexicana (Gobernar, 3 cities, home)	Gobernar	En general, ¿está usted de acuerdo o en desacuerdo con la manera como está gobernando el Presidente?
+Mexico	OPOPRMNVIVCONFDES2	Opinión Pública de la Oficina de la Presidencia de la República Mexicana (Desempeño2, national, home)	Desempeño	¿A tres años del gobierno de Fox, Ud. está conforme o inconforme con el desempeño del gobierno?
+Mexico	OPOPRM5TELAPPTRAB3	Opinión Pública de la Oficina de la Presidencia de la República Mexicana (Trabajo, 5 states, home)	Trabajo	En general, ¿usted aprueba o desaprueba la forma en que trabaja el presidente [NOMBRE}? Diría usted que lo aprueba mucho, aprueba algo, desaprueba algo o desaprueba mucho
+Mexico	OPOPRM14TELAPPTRAB3	Opinión Pública de la Oficina de la Presidencia de la República Mexicana (Trabajo, 14 states, telephone)	Trabajo	En general, ¿usted aprueba o desaprueba la forma en que trabaja el presidente [NOMBRE}? Diría usted que lo aprueba mucho, aprueba algo, desaprueba algo o desaprueba mucho
+Mexico	OPOPRM4VIVGUS2	Opinión Pública de la Oficina de la Presidencia de la República Mexicana (Gustar, 4 cities, home)	Gustar	¿Le gusta [NOMTRE]?
+Mexico	IPSOSBIMSA	IPSOS-BIMSA (Trabajo)	Trabajo	En terminos generales, ¿usted aprueba o desaprueba el trabajo que ha hecho hasta ahora [NOMBRE] como presidente de la republica?
+Mexico	UNIVERSAL	El Universal (Trabajo)	Trabajo	¿Aprueba o desaprueba la forma como [NOMBRE] está haciendo su trabajo como Presidente de la República?
+Mexico	REFORMA	Reforma (Trabajo)	Trabajo	¿Aprueba o desaprueba el trabajo de [NOMBRE] como presidente?
+Mexico	PARAMETRIA	Parametría (Trabajo)	Trabajo	En general, ¿usted aprueba o desaprueba la forma en que el Presidente [NOMBRE] realiza su trabajo
+Mexico	PARAMETRIAIMAG	Parametría (Imagen)	Imagen	
+Mexico	BGCAPPDESAP	BGC Beltrán, Juárez y Asociados (Gobernar)	Gobernar	En general, ¿está  usted de acuerdo o desacuerdo con la manera como esta goberanando el President [name]?
+Mexico	BGCCALIF	BGC Beltrán, Juárez y Asociados (Gestión)	Gestión	
+Mexico	CESOP	Centro de Estudios Sociales y de Opinión Pública (Trabajo)	Trabajo	¿Está usted de acuerdo o en desacuerdo con la forma en que [NOMBRE] está haciendo su trabajo como presidente de la República?
+Mexico	GEAISA_APP	Grupo de Economistas y Asociados & Indagaciones y Soluciones Avanzadas, S.C. (Labor)	Labor	En general, ¿usted aprueba o desaprueba la labor realizada por [NOMBRE] como Presidente de la República?
+Mexico	GEAISA_CAL	Grupo de Economistas y Asociados & Indagaciones y Soluciones Avanzadas, S.C. (Rate Labor 2)	Labor	En general, ¿cómo califica la labor realizada por [NOMBRE como Presidente de la República?
+Mexico	GEAISA3	Grupo de Economistas y Asociados & Indagaciones y Soluciones Avanzadas, S.C. (Rate Labor 3)	Labor	En general, ¿cómo califica la labor realizada por [NOMBRE como Presidente de la República?
+Mexico	GEAISA_IMP	Grupo de Economistas y Asociados & Indagaciones y Soluciones Avanzadas, S.C. (Gobernar)	Gobernar	En general, ¿es favorable o desfavorable su impresión de [NOMBRE] como gobernante?
+Mexico	MITOFSKY	Consulta Mitofsky (Gobernar)	Gobernar	En general, ¿está usted de acuerdo o no de acuerdo con la manera como está gobernando [NOMBRE]?
+Mexico	MXPS	Mexican Panel Study (Trabajo)	Trabajo	En general, ¿aprueba o desaprueba la forma como [NOMBRE] está haciendo su trabajo como Presidente?
+Mexico	BERUMEN	Berumen (Trabajo)	Trabajo	En general, ¿usted aprueba o reprueba el trabajo que est haciendo [NOMBRE] como Presidente de la República?
+Mexico	DEMOTECNIA	Demotécnia (Gobernar)	Gobernar	En su opinión, ¿cómo ha gobernado hasta ahora el Presidente [NOMBRE]?
+Mexico	BUENDIA	Buendía & Laredo (Trabajo)	Trabajo	En general, ¿usted aprueba o reprueba el trabajo está haciendo [NOMBRE] como Presidente de la República?
+Mexico	LB	Latinobarometer (Gestión)	Gestión	¿Usted aprueba o no aprueba la gestión del gobierno que encabeza el presidente [nombre]?
+Nicaragua	LAPOP	AmericasBarometer (Trabajo)	Trabajo	Hablando en general del actual gobierno, ¿diría usted que el trabajo que está realizando el/la presidente/a es muy bueno, bueno, ni bueno ni malo, malo, o muy malo?
+Nicaragua	CIMASIGMA2APP	CID-Gallup (Gestión)	Gestión	¿Usted aprueba o desaprueba la gestión del Presidente?
+Nicaragua	CIMAS2DESM	CID-Gallup (Opinión)	Opinión	¿Tiene usted una opinión favorable o desfavorable del presidente [NOMBRE]?
+Nicaragua	INDEMERC	INDEMERC (Gobernar)	Gobernar	¿Está usted de acuerdo o en desacuerdo con la manera de gobernanar [NOMBRE]?
+Nicaragua	INDEMERC5	INDEMERC (Trabajo)	Trabajo	¿Cómo calificaría el trabajo de [NOMBRE]?
+Nicaragua	BORGEYASOC	Borge y Asociados (Trabajo)	Trabajo	¿Cómo califica el trabajo efectuado por [NOMBRE] como Presidente de Nicaragua?
+Nicaragua	BORGEYASOCFAV	Borge y Asociados (Opinión)	Opinión	Queremos que nos diga si usted tiene opinión favorable o desfavorable de cada una de las siguientes personas.  
+Nicaragua	CIMABORGEAPP	Barómetro Iberoamericano de Gobernabilidad (Gestión)	Gestión	¿Usted aprueba o desaprueba la gestión del Presidente?
+Nicaragua	CIMABORGEDESEMP	Barómetro Iberoamericano de Gobernabilidad (Desempeño)	Desempeño	¿Cómo calificaría usted el desempeño del presidente [nombre]?
+Nicaragua	CIMAGESPRES	Barómetro Iberoamericano de Gobernabilidad (Gestión II)	Gestión	
+Nicaragua	CIDGALLUP	CID-Gallup (Desempeño)	Desempeño	¿Diría que ha desempeñado sus labores muy bien, algo bien, ni bien ni mal, algo mal o muy mal?
+Nicaragua	CIDGALLUPFAV	CID-Gallup (Opinión)	Opinión	¿Tiene usted una opinión favorable o desfavorable del presidente [NOMBRE]?
+Panama	M&RAPPGES	M&R (Gestión)	Gestión	¿Usted aprueba o desaprueba la gestión del Presidente?
+Panama	M&RP3	M&R (Desempeño)	Desempeño	¿Cómo calificaría usted el desempeño del presidente [nombre]?
+Panama	M&RSUPP	M&R (Gobierno)	Gobierno	Do you support or oppose the government of Enrique Bolaños?
+Panama	LB	Latinobarometer (Gestión)	Gestión	¿Usted aprueba o no aprueba la gestión del gobierno que encabeza el presidente [nombre]?
+Panama	LAPOP	AmericasBarometer (Trabajo)	Trabajo	Hablando en general del actual gobierno, ¿diría usted que el trabajo que está realizando el/la presidente/a es muy bueno, bueno, ni bueno ni malo, malo, o muy malo?
+Panama	UNIMER	Unimer (Gestión)	Gestión	¿Cómo califica la gestión de [NOMBRE] como presidente?
+Panama	CIMAPSMSIGMA2	Barómetro Iberoamericano de Gobernabilidad (Gestión)	Gestión	¿Usted aprueba o desaprueba la gestión del Presidente?
+Panama	CIMAPSMS2DESM	Barómetro Iberoamericano de Gobernabilidad (Desempeño)	Desempeño	¿Cómo calificaría usted el desempeño del presidente [nombre]?
+Panama	PSMSIGMA2	PSM-Sigma2 (Gestión)	Desempeño	¿Usted aprueba o desaprueba el desempeño de [NOMBRE] como Presidente?
+Panama	LB	Latinobarometer (Gestión)	Gestión	¿Usted aprueba o no aprueba la gestión del gobierno que encabeza el presidente [nombre]?
+Panama	LAPOP	AmericasBarometer (Trabajo)	Trabajo	Hablando en general del actual gobierno, ¿diría usted que el trabajo que está realizando el/la presidente/a es muy bueno, bueno, ni bueno ni malo, malo, o muy malo?
+Panama	DICHTERNEIRAGES	Dichter & Neira (Gestión)	Gestión	En términos generales, ¿Cómo califica usted la gestión del Presidente Juan Carlos Varela? Diría usted que es… Excelente, Buena, Mala, o Muy Mala?
+Panama	DICHTERNEIRALAB	Dichter & Neira (Labor)	Labor	En este momento usted, ¿aprueba o desaprueba la labor del Presidente?
+Panama	CIDGALLUP	CID-Gallup (Desempeño)	Desempeño	¿Diría que ha desempeñado sus labores muy bien, algo bien, ni bien ni mal, algo mal o muy mal?
+Panama	CIDGALLUPFAV	CID-Gallup (Opinión)	Opinión	¿Tiene usted una opinión favorable o desfavorable del presidente [NOMBRE]?
+Panama	IPSOS	IPSOS (Desempeño)	Desempeño	En términos generales, ¿califique el desempeño del trabajo que está haciendo [NOMBRE] como Presidente de la República de Panamá, donde 5 es excelente trabajo y 1 es muy mal trabajo, (encuestador leer opciones)?
+Panama	DATEXCOIMG	Datexco (Imagen)	Imagen	¿Usted tiene una imagen favorable o desfavorable del presidente [NOMBRE]?
+Paraguay	FIRST	First Análisis & Estudios (Desempeño)	Desempeño	¿Usted aprueba o desaprueba el desempeño de [NOMBRE] como Presidente?
+Paraguay	IBOPE-CIES	IBOPE-CIES/Centro de Investigación de Estudios Socioeconómicos (Gestión)	Gestión	
+Paraguay	CIRDPRTRAB	Fundación CIRD/Centro de Información y Recursos para el Desarrollo (Trabajo)	Trabajo	Y hablando en general del actual gobierno, diría usted que el trabajo que está realizando el presidente [NOMBRE] es…?
+Paraguay	CIRDPRCONT	Fundación CIRD/Centro de Información y Recursos para el Desarrollo (Feeling)	Feeling	Con [NOMBRE] como presidente de la República…¿Cómo se siente usted? Muy contento, contento, a medias contento, nada  contento
+Paraguay	COIN	COIN/Consumer Intelligence S.A. (Desempeño)	Desempeño	¿Cómo calificaría usted el desempeño de [NOMBRE] como presidente?
+Paraguay	GEO	GEO/Gabinete de Estudios de Opinión (Desempeño)	Desempeño	¿Cómo calificaría usted el desempeño del gobierno de [NOMBRE]?
+Paraguay	MORI	Equipos MORI Consultores		
+Paraguay	LB	Latinobarometer (Gestión)	Gestión	¿Usted aprueba o no aprueba la gestión del gobierno que encabeza el presidente [nombre]?
+Paraguay	LAPOP	AmericasBarometer (Trabajo)	Trabajo	Hablando en general del actual gobierno, ¿diría usted que el trabajo que está realizando el/la presidente/a es muy bueno, bueno, ni bueno ni malo, malo, o muy malo?
+Paraguay	CIMAAPP	Barómetro Iberoamericano de Gobernabilidad (Gestión)	Gestión	¿Usted aprueba o desaprueba la gestión del Presidente?
+Paraguay	CIMADESEMP	Barómetro Iberoamericano de Gobernabilidad (Desempeño)	Desempeño	¿Cómo calificaría usted el desempeño del presidente [nombre]?
+Paraguay	CUORE	Revista Cuore		
+Paraguay	ATISNEAD	Ati Snead (Desempeño)	Desempeño	¿Cómo calificaría usted el desempeño de [NOMBRE] como presidente?
+Paraguay	ATISNEADAPP	Ati Snead (Imagen)	Imagen	
+Paraguay	ICA	ICA/Instituto de Comunicacion y Arte	Gestión	
+Paraguay	ServiciosDigitales	Servicios Digitales		
+Peru	ULIMALC	Grupo de Opinión Pública de la Universidad de Lima (Gestión, Lima and Callao)	Gestión	¿Aprueba o desaprueba la gestión de [NOMBRE]como presidente  de la República?
+Peru	ULIMA3LC	Grupo de Opinión Pública de la Universidad de Lima (Gobierno, Lima and Callao)	Gobierno	Independientemente de sus posicion politica, cómo calificaria al gobierno de [President's name]: Muy Bueno, Bueno, Regular, Malo, o Muy Malo?
+Peru	ULIMANAC	Grupo de Opinión Pública de la Universidad de Lima (Gobierno, National)	Gobierno	Independientemente de sus posicion politica, cómo calificaria al gobierno de [President's name]: Muy Bueno, Bueno, Regular, Malo, o Muy Malo?
+Peru	APOYONAC	Apoyo Opinión y Mercado (Gestión, National)	Gestión	¿Aprueba o desaprueba la gestión de [NOMBRE]?
+Peru	APOYOLC	Apoyo Opinión y Mercado (Gestión, Lima and Callao)	Gestión	¿Aprueba o desaprueba la gestión de [NOMBRE]?
+Peru	PUCPLIMA	Instituto de Opinión Pública Pontificia Universidad Católica del Perú (Gestión, Lima)	Gestión	En general, ¿diría usted que aprueba o desaprueba la gestión del presidente de la República, [NOMBRE]?
+Peru	PUCPNAC	Instituto de Opinión Pública Pontificia Universidad Católica del Perú (Gestión, National)	Gestión	En general, ¿diría usted que aprueba o desaprueba la gestión del presidente de la República, [NOMBRE]?
+Peru	CPINAC	CPI/Compañía Peruana de Investigación y Mercado (Gestión, National)	Gestión	En términos generales, Ud. ¿aprueba o desaprueba la gestión que viene realizando el Presidente [NOMBRE] en lo que va de su gestión?
+Peru	CPILIMA	CPI/Compañía Peruana de Investigación y Mercado (Gestión, Lima)	Gestión	En términos generales, Ud. ¿aprueba o desaprueba la gestión que viene realizando el Presidente [NOMBRE] en lo que va de su gestión?
+Peru	DATUMINTL	Datum International (Labor, National)	Labor	¿Aprueba o desaprueba la labor pública que viene desarrollando [NOMBRE]como Presidente de la República?
+Peru	DATUMLC	Datum International (Labor, Lima and Callao)	Labor	¿Aprueba o desaprueba la labor pública que viene desarrollando [NOMBRE]como Presidente de la República?
+Peru	IDICE	Idice del Perú Encuestas de Opinión (Gestión)	Gestión	¿Aprueba o desaprueba la gestión del Presidente [NOMBRE]?
+Peru	IMASEN	Imasen (Gestión, Lima and Callao)	Gestión	
+Peru	IMAMARKAPP	IMA Estudios de Marketing (Gestión, Lima and Callao)	Gestión	¿Usted aprueba o desaprueba la gestión del Presidente [NOMBRE]?
+Peru	IMAMARK3	IMA Estudios de Marketing (Lima and Callao)		
+Peru	CIMAAPYAPP	Barómetro Iberoamericano de Gobernabilidad (Gestión)	Gestión	¿Usted aprueba o desaprueba la gestión del Presidente?
+Peru	CIMAAPYDES	Barómetro Iberoamericano de Gobernabilidad (Desempeño)	Desempeño	¿Cómo calificaría usted el desempeño del presidente [nombre]?
+Peru	LB	Latinobarometer (Gestión)	Gestión	¿Usted aprueba o no aprueba la gestión del gobierno que encabeza el presidente [nombre]?
+Peru	LAPOP	AmericasBarometer (Trabajo)	Trabajo	Hablando en general del actual gobierno, ¿diría usted que el trabajo que está realizando el/la presidente/a es muy bueno, bueno, ni bueno ni malo, malo, o muy malo?
+Peru	GFKAPR	GfK (Approve Conduciendo)	Conduciendo	¿Usted aprueba o desaprueba la forma como [NOMBRE] está conduciendo su gobierno?
+Peru	GFKEVAL	GfK (Evaluate Conduciendo)	Conduciendo	¿Ud diría que la forma en que Ollanta Humala[NOMBRE] viene conduciendo su gobierno es…?
+Peru	VOXPOPULI	Vox Populi (Gestión)	Gestión	¿Aprueba o desaprueba la gestión de [NOMBRE] como Presidente de la República?
+Uruguay	INTERCONSULT	Interconsult (Gestión)	Gestión	¿Ud. aprueba o desaprueba la gestión del Presidente [NOMBRE] en estos ... meses de gobierno? 
+Uruguay	MORIMONTEVIDEO	Equipos MORI Consultores (Desempeño, Montevideo)	Desempeño	¿Ud. aprueba o desaprueba la forma en que [NOMBRE] está desempeñándose como Presidente?
+Uruguay	MORI	Equipos MORI Consultores (Desempeño, National)	Desempeño	¿Ud. aprueba o desaprueba la forma en que [NOMBRE] está desempeñándose como Presidente?
+Uruguay	GRUPORADAR	Grupo Radar Investigación de Mercado y Opinión (Gestión)	Gestión	
+Uruguay	FACTUM	Factum (Desempeño)	Desempeño	¿Vd. aprueba o desaprueba el desempeño de [NOMBRE] como presidente de la República?
+Uruguay	CIFRA	Cifra, González Raga & Asociados (Desempeño)	Desempeño	¿Aprueba o desaprueba la forma en que Tabaré Vázquez se está desempeñando como presidente?
+Uruguay	CIFRASIMP	Cifra, González Raga & Asociados (Simpatía)	Simpatía 	¿[NOMBRE] le despierta simpatía o antipatía?
+Uruguay	OPCION	Opción Consultores (Gestión)	Gestión	¿Cómo evalúa usted la gestión del gobierno nacional encabezado por [NOMBRE]?
+Uruguay	LB	Latinobarometer (Gestión)	Gestión	¿Usted aprueba o no aprueba la gestión del gobierno que encabeza el presidente [nombre]?
+Uruguay	LAPOP	AmericasBarometer (Trabajo)	Trabajo	Hablando en general del actual gobierno, ¿diría usted que el trabajo que está realizando el/la presidente/a es muy bueno, bueno, ni bueno ni malo, malo, o muy malo?
+Uruguay	CIMAAPP	Barómetro Iberoamericano de Gobernabilidad (Gestión)	Gestión	¿Usted aprueba o desaprueba la gestión del Presidente?
+Uruguay	CIMADESEMP	Barómetro Iberoamericano de Gobernabilidad (Desempeño)	Desempeño	¿Cómo calificaría usted el desempeño del presidente [nombre]?
+Venezuela	C21	Consultores 21 (Gobierno)	Gobierno	¿Cómo calificaría usted este gobierno de [NOMBRE] como, muy bueno, bueno, malo o muy malo?
+Venezuela	DATOS	Datos, C.A. (Labor)	Labor	¿Cómo calificaría usted la labor que el actual gobierno está haciendo por usted personalmente?
+Venezuela	CIMAAPP	Barómetro Iberoamericano de Gobernabilidad (Gestión)	Gestión	¿Usted aprueba o desaprueba la gestión del Presidente?
+Venezuela	CIMAGES	Barómetro Iberoamericano de Gobernabilidad (Desempeño)	Desempeño	¿Cómo calificaría usted el desempeño del presidente [nombre]?
+Venezuela	LB	Latinobarometer (Gestión)	Gestión	¿Usted aprueba o no aprueba la gestión del gobierno que encabeza el presidente [nombre]?
+Venezuela	LAPOP	AmericasBarometer (Trabajo)	Trabajo	Hablando en general del actual gobierno, ¿diría usted que el trabajo que está realizando el/la presidente/a es muy bueno, bueno, ni bueno ni malo, malo, o muy malo?
+Venezuela	IVAD	IVAD/Instituto Venezolano Análisis de Datos, C.A. (Gestión)	Gestión	¿Cómo considera usted la gestión de[Nombre] como Presidente de Venezuela? Es decir  la considera: Excelente, Buena, Regular hacia Buena, Regular hacia mala, mala, pésima"
+Venezuela	DATANALISIS	Datanálisis (Labor)	Labor	¿Cómo evalúa usted la labor del Presidente [NOMBRE] por el bienestar del país?
+Venezuela	ICS	ICS/International Consulting Service (Gestión)	Gestión	¿Cómo evalúa usted la actual gestión del gobierno del Presidente [NOMBRE]?
+Venezuela	POLINOMICS	Polinomics (Agradar)	Agradar	
+Venezuela	POLINOMICSGES	Polinomics (Gestión)	Gestión	
+Venezuela	KELLER	Alfredo Kelly y Asociados (Agradar)	Agradar	
+Venezuela	HINTERLACES	Hinterlaces (Gestión)	Gestión	¿Cómo calificaría usted el desempeño del presidente?
+Venezuela	HINTERLACESAGRADO	Hinterlaces (Agradar)	Agradar	
+Venezuela	GISXXIGES	GisXXI/Grupo Nacional de Investigaciones Sociales del Siglo XX (Gestión)	Gestión	Pensando en el último año, ¿cómo calificaría la gestión que ha llevado a cabo el Presidente [NOMBRE?
+Venezuela	GISXXIDES	GisXXI/Grupo Nacional de Investigaciones Sociales del Siglo XX (Desempeño)	Desempeño	¿Cómo calificaría el desempeño general del presidente [NOMBRE]: muy bueno, bueno, malo o muy malo?
+Venezuela	VARIANZASPERFILIMAG	Varianzas (Imagen)	Imagen	
+Venezuela	VARIANZASGESTION	Varianzas (Gestión)	Gestión	
+Venezuela	ECOANALITICA	Ecoanalítica, C.A. (Gestión)	Gestión	¿Cómo evaluaría Ud. la gestión del Presidente [NOMBRE] frente del gobierno?
+Venezuela	GQRR	Greenberg Quinlan Rosner Research (Gestión)	Gestión	Do you approve or disapprove of Hugo Chávez's performance as president?
+Venezuela	EVANSMCD	Evans/McDonough Company, Inc. (Gestión)	Gestión	Evaluating the job performance of the government of President Hugo Chávez up to this point, has it been excellent, very good, good, somewhat good, very poor or awful?somewhat poor, poor,
+Venezuela	DOXA	Doxa, C.A.		
+Venezuela	MERCANALISIS	Mercanálisis (Gestión)	Gestión	How would you rate the performance of Hugo Chavez as president?
+Venezuela	DATIN	Datincorp (Gestión)	Gestión	
+Venezuela	HERCON	Hercon Consultores (Gestión)	Gestión	Si le tocaría evaluar la gestión del gobierno de [NOMBRE], Usted diría que es…?

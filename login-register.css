@@ -1,0 +1,74 @@
+body {
+	background-color: #b0c4de;
+	font-family: Montserrat, Verdana;
+	padding: 30px;
+}
+#countries {
+	font-family: Montserrat, Verdana;
+	margin-left: 5%;
+}
+#banner {
+	text-align: center;
+}
+#smallContainer {
+	background-color: #FFFFFF;
+	border: 2px solid #66FF99;
+	border-radius: 15px;
+	margin: auto;
+	padding: 20px;
+	font-weight: bold;
+	text-align: center;
+	width: 400px;
+}
+#smallContainer table, #smallContainer tbody {
+	width: 100%;
+}
+input, button {
+	font-family: Montserrat, Verdana;
+	width: 100%;
+}
+button {
+	height: 100%;
+	font-size: 20px;
+	border-radius: 4px;
+	background: #c73cff;
+    color: #FFFFFF;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin: 5px;
+}
+td:first-child {
+	text-align: right;
+	white-space: nowrap;
+	width: 1px;
+}
+.center {
+	text-align: center;
+}
+.message {
+	color: #FF0000;
+	font-size: 12px;
+}
+.bigText {
+	font-size: 24px;
+}
+#userPanel {
+	background: #b26aff;
+	float: right;
+	padding: 10px;
+	border-radius: 4px;
+}
+#userPanel a {
+	padding: 10px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.seperator {
+	width: 1px;
+	height: 100%;
+	background: #FFFFFF;
+}
+.clickable {
+	cursor: pointer;
+	color: #0000FF;
+}
